@@ -1,0 +1,2 @@
+model_checkpoint_path: "emo_rec_model"
+all_model_checkpoint_paths: "emo_rec_model"
