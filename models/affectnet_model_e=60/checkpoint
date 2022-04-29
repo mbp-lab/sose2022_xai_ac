@@ -1,0 +1,2 @@
+model_checkpoint_path: "affectnet_model"
+all_model_checkpoint_paths: "affectnet_model"
