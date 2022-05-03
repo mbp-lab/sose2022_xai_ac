@@ -1,6 +1,6 @@
 # Explainable AI for Affective Computing
 
-SoSe2021 Bielefeld University
+SoSe2022 Bielefeld University
 
 In this seminar we will learn about the latest research in eXplainable AI (XAI) and its application for the field of affective computing.  This reposity will contain a series of [Jupyter Notebooks](https://jupyter.org/) to give you practical experience using various Python toolkits.
 
@@ -65,6 +65,23 @@ To validate your virtual env installation, and make sure you are able to run a s
 1. In JupyterLab, open `validate_installation.ipynb`
 2. Follow the instructions in the Notebook
 
-### Intro to ML Notebook
+
+### (Optional) Intro to ML Notebook
 
 As an example, you can also familiarize yourself with the Notebook we will use in our first lecture: `intro_ml.ipynb`
+
+## Notebook 1 Instructions - Simplification and Feature Attribution
+
+*This section assumes you've already gone through all above steps.*
+
+1. Pull the most recent updates from the reposititory by running `git pull` from your local repository. 
+2. Activate your conda env, `conda activate xai_ac`.
+3. Download necessary models from LernraumPlus, section [Practical Notebook I](https://lernraumplus.uni-bielefeld.de/course/view.php?id=12564&section=7).
+    1. Extract to the `models` folder in your local repository
+4. Install the following Python Packages:
+    1. [Tensorflow](https://www.tensorflow.org/install): `pip install tensorflow` (there is no training so a GPU is not needed)  
+    2. [LIME](https://github.com/marcotcr/lime): `pip install lime`
+
+5. Run Jupyter Lab: `jupyter lab`
+6. Open `Notebooks/1. simplification_attribution.ipynb` 
+7. Complete the tasks as described in the Notebook.
