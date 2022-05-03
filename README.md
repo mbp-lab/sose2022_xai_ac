@@ -81,7 +81,7 @@ As an example, you can also familiarize yourself with the Notebook we will use i
 4. Install the following Python Packages:
     1. [Tensorflow](https://www.tensorflow.org/install): `pip install tensorflow` (there is no training so a GPU is not needed)  
     2. [LIME](https://github.com/marcotcr/lime): `pip install lime`
-    3. [SHAP](https://shap.readthedocs.io/en/latest/index.html#): `conda install -c conda-forge shap`
+
 5. Run Jupyter Lab: `jupyter lab`
 6. Open `Notebooks/1. simplification_attribution.ipynb` 
 7. Complete the tasks as described in the Notebook.
