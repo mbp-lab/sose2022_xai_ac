@@ -87,7 +87,7 @@ As an example, you can also familiarize yourself with the Notebook we will use i
 7. Complete the tasks as described in the Notebook.
 
 
-## Notebook 2 Instructions - Counterfactual and Contrastive Explanations
+## Notebook 2 Instructions - Counterfactual Explanations and More
 
 *This section assumes you've already gone through all above steps (including Notebook 1 instructions).*
 
