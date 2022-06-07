@@ -85,3 +85,20 @@ As an example, you can also familiarize yourself with the Notebook we will use i
 5. Run Jupyter Lab: `jupyter lab`
 6. Open `Notebooks/1. simplification_attribution.ipynb` 
 7. Complete the tasks as described in the Notebook.
+
+
+## Notebook 2 Instructions - Counterfactual and Contrastive Explanations
+
+*This section assumes you've already gone through all above steps (including Notebook 1 instructions).*
+
+1. Pull the most recent updates from the reposititory by running `git pull` from your local repository. 
+2. Activate your conda env, `conda activate xai_ac`.
+
+4. Install the following Python Packages:
+    1. `pip install dice-ml`
+    2. `pip install alibi[shap]`
+        - or if you receive an error `pip install "alibi[shap]"`
+
+5. Run Jupyter Lab: `jupyter lab`
+6. Open `Notebooks/2. XAI for AC Notebook.ipynb` 
+7. Complete the tasks as described in the Notebook.
